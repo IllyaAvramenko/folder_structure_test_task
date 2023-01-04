@@ -1,0 +1,11 @@
+.browser {
+   width: 100%
+}
+
+.browser__search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 15px;
+}
